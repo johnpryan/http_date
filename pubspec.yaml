@@ -1,5 +1,7 @@
 name: http_date
 description: A copy of the dart:io HttpDate class for use in browsers.
+author: John Ryan <john.p.ryan4@gmail.com>
+homepage: http://github.com/johnpryan/http_date
 version: 1.0.0
 environment:
   sdk: '>=1.0.0 <2.0.0'
